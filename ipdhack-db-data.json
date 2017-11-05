@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Martin",
+    "lastname": "Mora",
+    "age": 7,
+    "gender": "m",
+    "sport": "futbol",
+    "identification": 9876543,
+    "lat": -12.067141,
+    "long": -77.033905
+  },
+  {
+    "id": 2,
+    "name": "Rick",
+    "lastname": "Sanchez",
+    "age": 8,
+    "gender": "m",
+    "sport": "futbol",
+    "identification": 45678909,
+    "lat": -12.067198,
+    "long": -77.033803
+  },
+  {
+    "id": 3,
+    "name": "Sheyla",
+    "lastname": "Breña",
+    "age": 6,
+    "gender": "f",
+    "sport": "futbol",
+    "identification": 412356789,
+    "lat": -12.067497,
+    "long": -77.033707,
+    "pass": "111"
+  },
+  {
+    "id": 4,
+    "name": "Victor",
+    "lastname": "Casas",
+    "age": 8,
+    "gender": "m",
+    "sport": "futbol",
+    "identification": 43213214,
+    "lat": -12.067324,
+    "long": -77.033921
+  },
+  {
+    "id": 5,
+    "name": "Juan",
+    "lastname": "Vargas",
+    "age": 5,
+    "gender": "m",
+    "sport": "futbol",
+    "identification": 43213786,
+    "lat": -12.067124,
+    "long": -77.033721
+  },
+  {
+    "id": 6,
+    "name": "Paolo",
+    "lastname": "Guerrero",
+    "age": 9,
+    "gender": "m",
+    "sport": "futbol",
+    "identification": 43213200,
+    "lat": -12.067124,
+    "long": -77.033721
+  }
+
+]
