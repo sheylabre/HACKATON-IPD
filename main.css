@@ -716,7 +716,7 @@ button {
   line-height: 1.5;
   margin: 12px 0;
   padding: 0;
-  background-color: #00b3a0;
+  background-color: #e6ac00 ;
   color: #e2e8e7;
   border: 0 none transparent;
   width: 100%;
@@ -926,6 +926,31 @@ button {
 
 
 
+footer {
+  margin: 0 auto;
+  width: 100%;
+  background: #ffffff;
+  border-top: 0.0625em solid lightgrey;
+  bottom: 0;
+  color: #000000;
+  height: 5em;
+}
+footer:before,
+footer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+footer p {
+  float: left;
+  text-align: center;
+  width: 100%;
+  padding: 1.25em;
+}
+
+
+
+
 
 
 
@@ -951,4 +976,18 @@ button {
 .color_white {
 
   color: white !important;
+}
+
+
+
+.webflow-style-input {
+  background: gray;
+  color: black; 
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.text-sus {
+  font-size: 20px;
+  margin-bottom: 5%; 
 }
