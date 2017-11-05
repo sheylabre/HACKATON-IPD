@@ -109,7 +109,7 @@ section:nth-child(even) {
   background: transparent;
 }
 section:nth-child(odd) {
-  background: #e18267;
+  background: #cb2f1d;
 }
 .sections section:first-child {
   margin-top: 100px;
@@ -896,7 +896,7 @@ button {
   top: 0;
   height: 150px;
   width: 150px;
-  background: url(http://hqscreen.com/wallpapers/m/11/water_dark_waves_macro_blurred_background_sea_m10417.jpg) no-repeat center;
+  background: url(e.jpg) no-repeat center;
   background-size: cover;
   transition: all 1s;
   z-index: 50;
@@ -907,7 +907,7 @@ button {
   top: 0;
   height: 150px;
   width: 150px;
-  background: url(http://best-wallpaper.net/wallpaper/s/1209/Chamomile-close-up-blurred-background_s.jpg) no-repeat center;
+  background: url(f.jpeg) no-repeat center;
   background-size: cover;
   transition: all 1s;
   z-index: 50;
@@ -918,7 +918,7 @@ button {
   top: 0;
   height: 310px;
   width: 400px;
-  background: url(http://hqscreen.com/wallpapers/m/67/animals_blurred_background_foxes_snow_m66899.jpg) no-repeat center;
+  background: url(d.jpg) no-repeat center;
   background-size: cover;
   transition: all 1s;
   z-index: 50;
@@ -945,5 +945,10 @@ button {
 }
 
 .pad {
-  padding: 50px 0 !important;
+  padding: 125px 0 !important;
+}
+
+.color_white {
+
+  color: white !important;
 }
